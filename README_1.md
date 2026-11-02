@@ -2,13 +2,13 @@
 
 A 3D-printable seashell compact for tiny trinkets, with a round touchscreen built into the lid. It snaps shut, charges over USB-C, and has a 22 mm deep tray for rings and small things.
 
-![Renders: closed, lid top, open, base](images/render.png)
+<img width="289" height="173" alt="Screenshot 2026-10-18 at 8 46 26 PM" src="https://github.com/user-attachments/assets/de630aab-da3c-48de-8bb5-f6639098d222" />
 
 ## Why I made this
 
 I wanted something between a makeup compact, a jewelry box and a tiny cyberdeck. It should look like a decorative object first, but open up to a working screen. I started from my own sketch of a ribbed shell with a ruffled bow, sparkles and my signature, then modeled it parametrically so I could keep changing proportions and details.
 
-<img src="images/sketch.png" width="360" alt="Original sketch">
+<img width="420" height="392" alt="Screenshot 2026-10-18 at 12 40 52 AM" src="https://github.com/user-attachments/assets/96cb5827-a1ec-4f6d-b066-1ebf0cb96b5a" />
 
 ## Features
 
@@ -20,7 +20,8 @@ I wanted something between a makeup compact, a jewelry box and a tiny cyberdeck.
 - **Storage:** open trinket tray in the base, about 22 mm deep
 - **Size:** about 82 × 90 × 46 mm closed
 
-<img src="images/bow.png" width="600" alt="Relief bow detail">
+<img width="2100" height="735" alt="preview" src="https://github.com/user-attachments/assets/85b54e05-4eac-488e-9e07-e06b2403eeba" />
+
 
 ## Repository layout
 
